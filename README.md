@@ -12,9 +12,10 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Data Analysis:**  Natural Language Processing, Web Scraping ,Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods.
 
-### My recent project work ()
+### My recent project work
 1. How machine learning can help us classify fake currency notes : https://github.com/AakashM-10/FakeCurrencyClassifier
 2. How machine learning can be used for stock sentiment analysis : https://github.com/AakashM-10/stockSentimentAnalytics
+
 I am still working on making them more accurate. Getting better never ends.
  
 ### How to reach me 📱

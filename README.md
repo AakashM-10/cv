@@ -17,7 +17,15 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 2. How machine learning can be used for stock sentiment analysis : https://github.com/AakashM-10/stockSentimentAnalytics
 
 I am still working on making them more accurate. Getting better never ends.
- 
+
+### Certification
+1. Python Data Structures - Coursera
+2. Programming for Everbody (Getting Started With Python) - Coursera
+3. Machine Learning Foundation: A Case Study Approach - Coursera
+4. Machine Learning : Regression - Coursera
+
+Link to the Certificates : 
+
 ### How to reach me 📱
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917053614272)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/DPVKQegrxdbR) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://linkedin.com/in/aakash-mishra-488444143)
 

@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I’m a Electrical Engineering graduate with 7.2 CGPA from Delhi Technological University( formerly known as DCE) 2020 batch. I come with working experience of different technologies related to Data Science, Machine Learning and Deep Learning. Though I am an electrical Engineer by education my first love has always been Machine Learning and Data Science. Mathematics and stats are my favorite topics and I scored 95% in Maths in my 12th standard.
+I’m an Electrical Engineering graduate with 7.2 CGPA from Delhi Technological University( formerly known as DCE) 2020 batch. I come with working experience of different technologies related to Data Science, Machine Learning and Deep Learning. Though I am an electrical Engineer by education my first love has always been Machine Learning and Data Science. Mathematics and stats are my favorite topics and I scored 95% in Maths in my 12th standard.
 
 
 

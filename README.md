@@ -8,9 +8,9 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 ### Things I'm good at :fire:
 **Languages:**  Python, SQL, C++
 
-**Libraries & Tools:** Google Collaboratry NumPy, Pandas, Jupyter notebook, Conda, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK, TensorFlow.
+**Libraries & Tools:** Google Collaboratory, NumPy, Pandas, Jupyter notebook, Conda, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK, TensorFlow.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
+**Data Analysis:**  Natural Language Processing, Web Scraping ,Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods.
 
 ### How to reach me 📱
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917053614272)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/DPVKQegrxdbR) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://linkedin.com/in/aakash-mishra-488444143)

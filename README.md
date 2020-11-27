@@ -24,7 +24,7 @@ I am still working on making them more accurate. Getting better never ends.
 3. Machine Learning Foundation: A Case Study Approach - Coursera
 4. Machine Learning : Regression - Coursera
 
-Link to the Certificates : 
+Link to the Certificates : https://github.com/AakashM-10/cv/tree/main/certificates
 
 ### How to reach me 📱
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917053614272)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/DPVKQegrxdbR) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://linkedin.com/in/aakash-mishra-488444143)

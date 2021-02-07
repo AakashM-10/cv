@@ -30,5 +30,5 @@ Link to the Certificates : https://github.com/AakashM-10/cv/tree/main/certificat
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917053614272)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/DPVKQegrxdbR) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://linkedin.com/in/aakash-mishra-488444143)
 
 ### CV link
-https://github.com/AakashM-10/cv/blob/main/Aakash%20Resume.pdf
+https://github.com/AakashM-10/cv/blob/main/Aakash_cv.pdf
 
